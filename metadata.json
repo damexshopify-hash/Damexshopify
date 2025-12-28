@@ -1,0 +1,7 @@
+{
+  "name": "Ramat Hotel and Garden",
+  "description": "A luxury boutique hotel and garden experience in Ilorin, Nigeria, offering peaceful stays and elegant event spaces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
